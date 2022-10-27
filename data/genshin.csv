@@ -1,0 +1,799 @@
+Name;Rarity;Weapon;Element;Sex;Region;Release Date;Ascension Stat;Level;HP;ATK;DEF
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;01/20;793;18;50
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;20/20;2037;48;129
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;20/40;2630;62;166
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;40/40;3940;92;250
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;40/50;4361;102;276
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;50/50;5016;118;318
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;50/60;5577;131;354
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;60/60;6233;146;395
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;60/70;6654;156;422
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;70/70;7308;172;463
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;70/80;7729;182;490
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;80/80;8384;197;532
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;80/90;8805;207;559
+Amber;4;Bow;Pyro;F;Mondstadt;2020-09-28;ATK;90/90;9461;223;600
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;01/20;820;13;56
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;20/20;2108;34;144
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;20/40;2721;44;185
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;40/40;4076;66;278
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;40/50;4511;73;308
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;50/50;5189;84;354
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;50/60;5770;93;394
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;60/60;6448;104;440
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;60/70;6883;112;470
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;70/70;7560;123;516
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;70/80;7996;130;546
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;80/80;8674;141;592
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;80/90;9109;148;622
+Barbara;4;Catalyst;Hydro;F;Mondstadt;2020-09-28;HP;90/90;9787;159;668
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;01/20;1094;18;54
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;20/20;2810;48;139
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;20/40;3628;62;180
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;40/40;5434;93;270
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;40/50;6015;103;298
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;50/50;6919;119;343
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;50/60;7693;132;382
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;60/60;8597;148;427
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;60/70;9178;158;456
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;70/70;10080;173;500
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;70/80;10661;183;529
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;80/80;11565;199;574
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;80/90;12146;209;603
+Beidou;4;Claymore;Electro;F;Liyue;2020-09-28;Elemental DMG;90/90;13049;225;648
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;01/20;1039;16;64
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;20/20;2670;41;166
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;20/40;3446;53;214
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;40/40;5162;79;321
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;40/50;5714;88;355
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;50/50;6573;101;408
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;50/60;7308;112;454
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;60/60;8167;125;508
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;60/70;8719;134;542
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;70/70;9576;147;595
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;70/80;10128;156;630
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;80/80;10987;169;683
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;80/90;11538;177;717
+Bennett;4;Sword;Pyro;M;Mondstadt;2020-09-28;Energy Recharge;90/90;12397;191;771
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;01/20;920;18;54
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;20/20;2365;48;139
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;20/40;3053;62;180
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;40/40;4574;92;270
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;40/50;5063;102;298
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;50/50;5823;118;343
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;50/60;6475;131;382
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;60/60;7236;146;427
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;60/70;7724;156;456
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;70/70;8484;172;500
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;70/80;8973;182;529
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;80/80;9734;197;574
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;80/90;10222;207;603
+Chongyun;4;Claymore;Cryo;M;Liyue;2020-09-28;ATK;90/90;10983;223;648
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;01/20;1010;26;61
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;20/20;2621;67;158
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;20/40;3487;89;210
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;40/40;5218;134;315
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;40/50;5834;150;352
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;50/50;6712;173;405
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;50/60;7533;194;454
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;60/60;8420;217;508
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;60/70;9036;233;545
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;70/70;9931;256;599
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;70/80;10547;272;636
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;80/80;11452;295;691
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;80/90;12068;311;728
+Diluc;5;Claymore;Pyro;M;Mondstadt;2020-09-28;CRIT Rate;90/90;12980;334;783
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;01/20;770;20;49
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;20/20;1979;52;127
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;20/40;2554;67;165
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;40/40;3826;101;247
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;40/50;4235;112;273
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;50/50;4872;129;314
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;50/60;5417;144;350
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;60/60;6053;160;391
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;60/70;6462;171;417
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;70/70;7098;188;458
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;70/80;7507;199;485
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;80/80;8143;216;526
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;80/90;8552;227;552
+Fischl;4;Bow;Electro;F;Mondstadt;2020-09-28;ATK;90/90;9189;244;593
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;01/20;1143;18;59
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;20/20;2967;48;155
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;20/40;3948;64;206
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;40/40;5908;96;308
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;40/50;6604;107;345
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;50/50;7599;123;397
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;50/60;8528;138;446
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;60/60;9532;155;498
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;60/70;10229;166;535
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;70/70;11243;182;588
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;70/80;11940;194;624
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;80/80;12965;211;678
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;80/90;13662;222;714
+Jean;5;Sword;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;90/90;14695;239;768
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;01/20;975;18;66
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;20/20;2506;48;170
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;20/40;3235;62;220
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;40/40;4845;92;329
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;40/50;5363;102;364
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;50/50;6169;118;419
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;50/60;6860;131;466
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;60/60;7665;146;521
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;60/70;8183;156;556
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;70/70;8988;172;611
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;70/80;9506;182;646
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;80/80;10312;197;701
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;80/90;10830;207;736
+Kaeya;4;Sword;Cryo;M;Mondstadt;2020-09-28;Energy Recharge;90/90;11636;223;791
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;01/20;1020;25;62
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;20/20;2646;65;161
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;20/40;3520;86;214
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;40/40;5267;129;321
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;40/50;5889;145;359
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;50/50;6775;166;413
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;50/60;7604;187;463
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;60/60;8499;209;518
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;60/70;9121;224;556
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;70/70;10025;247;611
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;70/80;10646;262;649
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;80/80;11560;284;705
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;80/90;12182;300;743
+Keqing;5;Sword;Electro;F;Liyue;2020-09-28;CRIT DMG;90/90;13103;322;799
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;01/20;802;19;48
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;20/20;2061;49;123
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;20/40;2660;64;159
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;40/40;3985;96;238
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;40/50;4411;106;264
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;50/50;5074;122;303
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;50/60;5641;136;338
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;60/60;6304;152;377
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;60/70;6730;162;403
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;70/70;7392;178;442
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;70/80;7818;189;468
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;80/80;8481;205;508
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;80/90;8907;215;533
+Lisa;4;Catalyst;Electro;F;Mondstadt;2020-09-28;Elemental Mastery;90/90;9569;231;573
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;01/20;810;22;50
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;20/20;2101;57;131
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;20/40;2796;77;175
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;40/40;4184;115;262
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;40/50;4678;129;293
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;50/50;5382;148;337
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;50/60;6040;166;379
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;60/60;6752;186;423
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;60/70;7245;199;454
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;70/70;7963;219;499
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;70/80;8457;233;530
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;80/80;9183;253;576
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;80/90;9677;266;607
+Mona;5;Catalyst;Hydro;F;Mondstadt;2020-09-28;Energy Recharge;90/90;10409;287;653
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;01/20;820;17;48
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;20/20;2108;45;123
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;20/40;2721;59;159
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;40/40;4076;88;238
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;40/50;4511;97;264
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;50/50;5189;112;303
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;50/60;5770;125;338
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;60/60;6448;139;377
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;60/70;6883;149;403
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;70/70;7560;164;442
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;70/80;7996;173;468
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;80/80;8674;188;508
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;80/90;9109;197;533
+Ningguang;4;Catalyst;Geo;F;Liyue;2020-09-28;Elemental DMG;90/90;9787;212;573
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;01/20;1012;16;66
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;20/20;2600;41;172
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;20/40;3356;53;222
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;40/40;5027;79;332
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;40/50;5564;88;368
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;50/50;6400;101;423
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;50/60;7116;112;470
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;60/60;7952;125;526
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;60/70;8489;134;561
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;70/70;9324;147;616
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;70/80;9861;156;652
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;80/80;10697;169;707
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;80/90;11235;177;743
+Noelle;4;Claymore;Geo;F;Mondstadt;2020-09-28;DEF;90/90;12071;191;798
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;01/20;962;22;71
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;20/20;2497;57;186
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;20/40;3323;77;247
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;40/40;4972;115;370
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;40/50;5559;129;414
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;50/50;6395;148;476
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;50/60;7177;166;535
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;60/60;8023;186;598
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;60/70;8609;199;642
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;70/70;9463;219;705
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;70/80;10049;233;749
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;80/80;10912;253;813
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;80/90;11498;266;857
+Qiqi;5;Sword;Cryo;F;Liyue;2020-09-28;Elemental DMG;90/90;12368;287;922
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;01/20;1002;19;62
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;20/20;2576;50;161
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;20/40;3325;64;208
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;40/40;4981;97;312
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;40/50;5514;107;346
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;50/50;6342;123;398
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;50/60;7052;137;442
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;60/60;7880;153;494
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;60/70;8413;164;528
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;70/70;9240;180;579
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;70/80;9773;190;613
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;80/80;10601;207;665
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;80/90;11133;217;698
+Razor;4;Claymore;Electro;M;Mondstadt;2020-09-28;Elemental DMG;90/90;11962;233;750
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;01/20;775;14;58
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;20/20;1991;36;151
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;20/40;2570;47;195
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;40/40;3849;70;292
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;40/50;4260;78;324
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;50/50;4901;90;372
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;50/60;5449;100;414
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;60/60;6089;111;463
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;60/70;6501;119;494
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;70/70;7140;131;543
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;70/80;7551;138;574
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;80/80;8192;150;623
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;80/90;8603;158;654
+Sucrose;4;Catalyst;Anemo;F;Mondstadt;2020-09-28;Elemental DMG;90/90;9243;169;702
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;01/20;819;20;52
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;20/20;2126;53;135
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;20/40;2829;70;179
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;40/40;4234;105;268
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;40/50;4733;118;300
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;50/50;5445;136;345
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;50/60;6111;152;388
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;60/60;6831;170;433
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;60/70;7331;183;465
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;70/70;8057;201;511
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;70/80;8557;213;543
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;80/80;9291;232;589
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;80/90;9791;244;621
+Venti;5;Bow;Anemo;M;Mondstadt;2020-09-28;Energy Recharge;90/90;10531;263;668
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;01/20;911;18;56
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;20/20;2342;48;144
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;20/40;3023;62;185
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;40/40;4528;93;278
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;40/50;5012;103;308
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;50/50;5766;119;354
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;50/60;6411;132;394
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;60/60;7164;148;440
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;60/70;7648;158;470
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;70/70;8400;173;516
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;70/80;8884;183;546
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;80/80;9637;199;592
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;80/90;10121;209;622
+Xiangling;4;Polearm;Pyro;F;Liyue;2020-09-28;Elemental Mastery;90/90;10874;225;668
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;01/20;857;16;63
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;20/20;2201;43;163
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;20/40;2842;56;210
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;40/40;4257;84;315
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;40/50;4712;93;349
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;50/50;5420;106;401
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;50/60;6026;118;446
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;60/60;6734;132;499
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;60/70;7189;141;532
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;70/70;7896;155;585
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;70/80;8351;164;618
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;80/80;9059;178;671
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;80/90;9514;187;705
+Xingqiu;4;Sword;Hydro;M;Liyue;2020-09-28;ATK;90/90;10222;201;757
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;01/20;800;24;47
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;20/20;2077;62;124
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;20/40;2763;83;165
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;40/40;4135;125;247
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;40/50;4623;139;276
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;50/50;5319;160;317
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;50/60;5969;180;356
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;60/60;6672;201;398
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;60/70;7160;216;428
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;70/70;7870;237;470
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;70/80;8358;252;499
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;80/80;9075;274;542
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;80/90;9563;289;571
+Klee;5;Catalyst;Pyro;F;Mondstadt;2020-10-20;Elemental DMG;90/90;10286;310;614
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;01/20;802;17;50
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;20/20;2061;45;129
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;20/40;2660;59;166
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;40/40;3985;88;250
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;40/50;4411;97;276
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;50/50;5074;112;318
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;50/60;5641;125;354
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;60/60;6304;139;395
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;60/70;6730;149;422
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;70/70;7392;164;463
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;70/80;7818;173;490
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;80/80;8481;188;532
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;80/90;8907;197;559
+Diona;4;Bow;Cryo;F;Mondstadt;2020-11-11;Elemental DMG;90/90;9569;212;600
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;01/20;1020;23;63
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;20/20;2646;60;164
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;20/40;3520;80;218
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;40/40;5267;121;327
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;40/50;5889;135;366
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;50/50;6775;155;421
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;50/60;7604;174;472
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;60/60;8499;195;528
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;60/70;9121;209;567
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;70/70;10025;230;623
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;70/80;10646;244;661
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;80/80;11560;265;718
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;80/90;12182;280;757
+Tartaglia;5;Bow;Hydro;M;Snezhnaya;2020-11-11;Elemental DMG;90/90;13103;301;814
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;01/20;939;20;66
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;20/20;2412;53;172
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;20/40;3114;69;222
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;40/40;4664;103;332
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;40/50;5163;114;368
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;50/50;5939;131;423
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;50/60;6603;146;470
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;60/60;7379;163;526
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;60/70;7877;174;561
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;70/70;8652;191;616
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;70/80;9151;203;652
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;80/80;9926;220;707
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;80/90;10425;231;743
+Xinyan;4;Claymore;Pyro;F;Liyue;2020-12-01;ATK;90/90;11201;248;798
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;01/20;1143;19;57
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;20/20;2967;50;148
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;20/40;3948;67;198
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;40/40;5908;100;296
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;40/50;6604;112;331
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;50/50;7599;129;381
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;50/60;8528;145;428
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;60/60;9532;162;478
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;60/70;10229;174;513
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;70/70;11243;192;564
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;70/80;11940;204;599
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;80/80;12965;221;650
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;80/90;13662;233;685
+Zhongli;5;Polearm;Geo;M;Liyue;2020-12-01;Elemental DMG;90/90;14695;251;737
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;01/20;1029;19;68
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;20/20;2670;50;176
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;20/40;3553;67;235
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;40/40;5317;100;352
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;40/50;5944;112;393
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;50/50;6839;129;453
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;50/60;7675;145;508
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;60/60;8579;162;568
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;60/70;9206;174;609
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;70/70;10118;192;670
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;70/80;10746;204;711
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;80/80;11668;221;773
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;80/90;12295;233;814
+Albedo;5;Sword;Geo;M;Mondstadt;2020-12-23;Elemental DMG;90/90;13225;251;876
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;01/20;762;26;49
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;20/20;1978;67;127
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;20/40;2632;89;169
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;40/40;3938;134;253
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;40/50;4403;150;283
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;50/50;5066;173;325
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;50/60;5685;194;365
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;60/60;6355;217;408
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;60/70;6819;233;438
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;70/70;7495;256;482
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;70/80;7960;272;512
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;80/80;8643;295;556
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;80/90;9108;311;585
+Ganyu;5;Bow;Cryo;F;Liyue;2021-01-12;CRIT DMG;90/90;9796;334;630
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;01/20;991;27;62
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;20/20;2571;70;161
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;20/40;3421;93;214
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;40/40;5120;140;321
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;40/50;5724;156;359
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;50/50;6585;180;413
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;50/60;7391;202;463
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;60/60;8261;226;518
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;60/70;8865;243;556
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;70/70;9744;267;611
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;70/80;10348;283;649
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;80/80;11236;308;705
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;80/90;11840;324;743
+Xiao;5;Polearm;Anemo;M;Liyue;2021-02-03;CRIT Rate;90/90;12735;349;799
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;01/20;1210;8;68
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;20/20;3140;21;176
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;20/40;4178;28;235
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;40/40;6252;42;352
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;40/50;6990;47;393
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;50/50;8042;55;453
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;50/60;9025;61;508
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;60/60;10088;69;568
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;60/70;10826;74;609
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;70/70;11899;81;670
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;70/80;12636;86;711
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;80/80;13721;93;773
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;80/90;14459;98;814
+Hu Tao;5;Polearm;Pyro;F;Liyue;2021-03-02;CRIT DMG;90/90;15552;106;876
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;01/20;1030;20;59
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;20/20;2646;51;152
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;20/40;3416;66;197
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;40/40;5117;99;295
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;40/50;5664;110;327
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;50/50;6515;127;376
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;50/60;7244;141;418
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;60/60;8095;158;467
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;60/70;8642;168;499
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;70/70;9492;185;548
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;70/80;10039;196;579
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;80/80;10890;212;629
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;80/90;11437;223;660
+Rosaria;4;Polearm;Cryo;F;Mondstadt;2021-04-06;ATK;90/90;12288;240;709
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;01/20;784;20;49
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;20/20;2014;51;126
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;20/40;2600;66;163
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;40/40;3894;99;244
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;40/50;4311;110;270
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;50/50;4958;127;311
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;50/60;5513;141;346
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;60/60;6161;158;386
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;60/70;6577;168;412
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;70/70;7224;185;453
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;70/80;7640;196;479
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;80/80;8288;212;520
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;80/90;8704;223;546
+Yanfei;4;Catalyst;Pyro;F;Liyue;2021-04-28;Elemental DMG;90/90;9352;240;586
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;01/20;1029;26;58
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;20/20;2670;69;151
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;20/40;3553;91;201
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;40/40;5317;137;301
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;40/50;5944;153;337
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;50/50;6839;176;388
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;50/60;7675;198;435
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;60/60;8579;221;487
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;60/70;9206;238;522
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;70/70;10118;261;574
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;70/80;10746;277;610
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;80/80;11668;301;662
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;80/90;12295;317;698
+Eula;5;Claymore;Cryo;F;Mondstadt;2021-05-18;CRIT DMG;90/90;13225;342;750
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;01/20;1039;23;62
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;20/20;2695;59;162
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;20/40;3586;79;216
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;40/40;5366;119;324
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;40/50;5999;133;362
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;50/50;6902;153;417
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;50/60;7746;172;468
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;60/60;8658;192;523
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;60/70;9291;206;561
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;70/70;10212;226;617
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;70/80;10845;240;655
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;80/80;11776;261;711
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;80/90;12409;275;750
+Kaedehara Kazuha;5;Sword;Anemo;M;Inazuma;2021-06-29;Elemental Mastery;90/90;13348;296;806
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;01/20;1000;26;61
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;20/20;2596;69;158
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;20/40;3454;91;210
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;40/40;5169;137;315
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;40/50;5779;153;352
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;50/50;6649;176;405
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;50/60;7462;198;454
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;60/60;8341;221;508
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;60/70;8950;238;545
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;70/70;9837;261;599
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;70/80;10447;277;636
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;80/80;11344;301;691
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;80/90;11954;317;728
+Kamisato Ayaka;5;Sword;Cryo;F;Inazuma;2021-07-21;CRIT DMG;90/90;12858;342;783
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;01/20;993;20;62
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;20/20;2553;52;160
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;20/40;3295;67;207
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;40/40;4936;101;310
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;40/50;5464;112;343
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;50/50;6284;129;394
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;50/60;6988;144;438
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;60/60;7809;160;490
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;60/70;8336;171;523
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;70/70;9156;188;575
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;70/80;9684;199;608
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;80/80;10505;216;659
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;80/90;11032;227;693
+Sayu;4;Claymore;Anemo;F;Inazuma;2021-08-10;Elemental Mastery;90/90;11853;244;744
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;01/20;791;25;47
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;20/20;2052;65;124
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;20/40;2730;86;165
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;40/40;4086;129;247
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;40/50;4568;145;276
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;50/50;5256;166;317
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;50/60;5898;187;356
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;60/60;6593;209;398
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;60/70;7075;224;428
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;70/70;7776;247;470
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;70/80;8258;262;499
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;80/80;8967;284;542
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;80/90;9449;300;571
+Yoimiya;5;Bow;Pyro;F;Inazuma;2021-08-10;CRIT Rate;90/90;10164;322;614
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;01/20;802;16;52
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;20/20;2061;42;135
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;20/40;2660;54;174
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;40/40;3985;81;261
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;40/50;4411;90;289
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;50/50;5074;103;332
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;50/60;5641;115;370
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;60/60;6304;128;413
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;60/70;6730;137;441
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;70/70;7392;150;485
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;70/80;7818;159;513
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;80/80;8481;173;556
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;80/90;8907;181;584
+Kujou Sara;4;Bow;Electro;F;Inazuma;2021-09-01;ATK;90/90;9569;195;627
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;01/20;1004;26;61
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;20/20;2606;68;159
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;20/40;3467;90;212
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;40/40;5189;135;317
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;40/50;5801;151;354
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;50/50;6674;174;408
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;50/60;7490;195;458
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;60/60;8372;218;512
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;60/70;8985;234;549
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;70/70;9875;258;603
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;70/80;10487;274;641
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;80/80;11387;297;696
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;80/90;11999;313;733
+Raiden Shogun;5;Polearm;Electro;F;Inazuma;2021-09-01;Energy Recharge;90/90;12907;337;789
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;01/20;1048;18;51
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;20/20;2720;47;132
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;20/40;3619;62;176
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;40/40;5415;94;264
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;40/50;6054;105;295
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;50/50;6965;121;339
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;50/60;7817;136;381
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;60/60;8738;152;426
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;60/70;9377;163;457
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;70/70;10306;179;502
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;70/80;10945;190;533
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;80/80;11884;206;579
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;80/90;12523;217;610
+Sangonomiya Kokomi;5;Catalyst;Hydro;F;Inazuma;2021-09-21;Elemental DMG;90/90;13470;234;657
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;01/20;866;16;62
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;20/20;2225;43;161
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;20/40;2872;56;208
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;40/40;4302;84;312
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;40/50;4762;93;346
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;50/50;5477;106;398
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;50/60;6090;118;442
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;60/60;6806;132;494
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;60/70;7266;141;528
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;70/70;7980;155;579
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;70/80;8440;164;613
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;80/80;9155;178;665
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;80/90;9615;187;698
+Thoma;4;Polearm;Pyro;M;Inazuma;2021-11-02;ATK;90/90;10331;201;750
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;01/20;1000;17;74
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;20/20;2596;45;193
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;20/40;3454;61;257
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;40/40;5169;91;385
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;40/50;5779;102;431
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;50/50;6649;117;495
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;50/60;7462;131;556
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;60/60;8341;147;622
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;60/70;8950;158;667
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;70/70;9837;173;733
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;70/80;10447;184;779
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;80/80;11344;200;846
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;80/90;11954;211;891
+Arataki Itto;5;Claymore;Geo;M;Inazuma;2021-12-14;CRIT Rate;90/90;12858;227;959
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;01/20;802;15;54
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;20/20;2061;39;139
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;20/40;2660;50;180
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;40/40;3985;76;270
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;40/50;4411;84;298
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;50/50;5074;96;343
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;50/60;5641;107;382
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;60/60;6304;120;427
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;60/70;6730;128;456
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;70/70;7392;141;500
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;70/80;7818;149;529
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;80/80;8481;161;574
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;80/90;8907;170;603
+Gorou;4;Bow;Geo;M;Inazuma;2021-12-14;Elemental DMG;90/90;9569;182;648
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;01/20;1011;23;64
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;20/20;2623;61;167
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;20/40;3491;81;223
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;40/40;5223;122;333
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;40/50;5839;136;373
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;50/50;6718;157;429
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;50/60;7540;176;481
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;60/60;8428;197;538
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;60/70;9044;211;577
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;70/70;9940;232;635
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;70/80;10557;246;674
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;80/80;11463;267;732
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;80/90;12079;282;771
+Shenhe;5;Polearm;Cryo;F;Liyue;2022-01-05;ATK;90/90;12992;303;830
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;01/20;893;16;61
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;20/20;2295;41;158
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;20/40;2963;53;204
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;40/40;4438;79;305
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;40/50;4912;88;338
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;50/50;5650;101;389
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;50/60;6283;112;432
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;60/60;7021;125;483
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;60/70;7495;134;516
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;70/70;8232;147;567
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;70/80;8706;156;599
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;80/80;9445;169;650
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;80/90;9919;177;683
+Yun Jin;4;Polearm;Geo;F;Liyue;2022-01-05;Energy Recharge;90/90;10657;191;734
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;01/20;807;26;44
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;20/20;2094;68;114
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;20/40;2786;91;152
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;40/40;4170;136;228
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;40/50;4661;152;255
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;50/50;5363;175;294
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;50/60;6019;197;330
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;60/60;6728;220;368
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;60/70;7220;236;395
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;70/70;7935;259;435
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;70/80;8427;275;462
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;80/80;9151;299;501
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;80/90;9643;315;528
+Yae Miko;5;Catalyst;Electro;F;Inazuma;2022-02-16;CRIT Rate;90/90;10372;339;568
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;01/20;1067;23;59
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;20/20;2769;60;155
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;20/40;3685;80;206
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;40/40;5514;120;308
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;40/50;6164;134;345
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;50/50;7092;154;397
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;50/60;7959;173;446
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;60/60;8897;193;498
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;60/70;9547;208;535
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;70/70;10493;228;588
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;70/80;11144;242;624
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;80/80;12100;263;678
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;80/90;12751;277;714
+Kamisato Ayato;5;Sword;Hydro;M;Inazuma;2022-03-30;CRIT DMG;90/90;13715;298;768
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;01/20;1124;18;42
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;20/20;2918;49;110
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;20/40;3882;65;147
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;40/40;5809;98;220
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;40/50;6494;109;246
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;50/50;7472;126;283
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;50/60;8386;141;318
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;60/60;9373;158;355
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;60/70;10059;169;381
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;70/70;11055;186;419
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;70/80;11741;198;445
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;80/80;12749;215;483
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;80/90;13434;226;509
+Yelan;5;Bow;Hydro;F;Liyue;2022-05-31;CRIT Rate;90/90;14450;243;547
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;01/20;1030;17;62
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;20/20;2646;45;161
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;20/40;3416;59;208
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;40/40;5117;88;312
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;40/50;5664;97;346
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;50/50;6515;112;398
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;50/60;7244;125;442
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;60/60;8095;139;494
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;60/70;8642;149;528
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;70/70;9492;164;579
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;70/80;10039;173;613
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;80/80;10890;188;665
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;80/90;11437;197;698
+Kuki Shinobu;4;Sword;Electro;F;Inazuma;2022-06-21;HP;90/90;12288;212;750
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;01/20;893;18;57
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;20/20;2295;48;147
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;20/40;2963;62;190
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;40/40;4438;93;284
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;40/50;4912;103;315
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;50/50;5650;119;362
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;50/60;6283;132;403
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;60/60;7021;148;450
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;60/70;7495;158;480
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;70/70;8232;173;528
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;70/80;8706;183;558
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;80/80;9445;199;606
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;80/90;9919;209;636
+Shikanoin Heizou;4;Catalyst;Anemo;M;Inazuma;2022-07-13;Elemental DMG;90/90;10657;225;683
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;01/20;820;16;50
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;20/20;2108;43;129
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;20/40;2721;55;166
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;40/40;4076;83;250
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;40/50;4511;92;276
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;50/50;5189;105;318
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;50/60;5770;117;354
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;60/60;6448;131;395
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;60/70;6883;140;422
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;70/70;7560;154;463
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;70/80;7996;163;490
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;80/80;8674;176;532
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;80/90;9109;185;559
+Collei;4;Bow;Dendro;F;Sumeru;2022-08-24;ATK;90/90;9787;199;600
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;01/20;844;20;49
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;20/20;2191;54;127
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;20/40;2915;71;169
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;40/40;4362;107;253
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;40/50;4876;120;283
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;50/50;5610;138;325
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;50/60;6296;155;365
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;60/60;7038;173;408
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;60/70;7552;186;438
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;70/70;8301;204;482
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;70/80;8815;217;512
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;80/80;9572;236;556
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;80/90;10087;249;585
+Tighnari;5;Bow;Dendro;M;Sumeru;2022-08-24;Elemental DMG;90/90;10849;267;630
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;01/20;1039;18;60
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;20/20;2670;48;155
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;20/40;3446;62;201
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;40/40;5162;92;301
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;40/50;5714;102;333
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;50/50;6573;118;383
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;50/60;7308;131;426
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;60/60;8167;146;476
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;60/70;8719;156;508
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;70/70;9576;172;558
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;70/80;10128;182;591
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;80/80;10987;197;641
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;80/90;11538;207;673
+Dori;4;Claymore;Electro;F;Sumeru;2022-09-09;HP;90/90;12397;223;723
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;01/20;911;17;57
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;20/20;2342;45;147
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;20/40;3023;59;189
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;40/40;4528;88;284
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;40/50;5012;97;314
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;50/50;5766;112;361
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;50/60;6411;125;402
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;60/60;7164;139;449
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;60/70;7648;149;480
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;70/70;8400;164;527
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;70/80;8884;173;557
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;80/80;9637;188;604
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;80/90;10121;197;635
+Candace;4;Polearm;Hydro;F;Sumeru;2022-09-28;HP;90/90;10874;212;682
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;01/20;972;24;66
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;20/20;2522;64;173
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;20/40;3356;85;230
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;40/40;5021;127;345
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;40/50;5614;142;386
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;50/50;6459;164;444
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;50/60;7249;184;498
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;60/60;8102;206;557
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;60/70;8695;221;598
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;70/70;9556;243;657
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;70/80;10149;258;698
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;80/80;11020;280;758
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;80/90;11612;295;798
+Cyno;5;Polearm;Electro;M;Sumeru;2022-09-28;CRIT DMG;90/90;12490;318;859
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;01/20;1182;17;56
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;20/20;3066;46;147
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;20/40;4079;61;195
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;40/40;6104;92;292
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;40/50;6825;103;327
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;50/50;7852;118;376
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;50/60;8812;133;422
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;60/60;9850;148;472
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;60/70;10570;159;507
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;70/70;11617;175;557
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;70/80;12338;186;591
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;80/80;13397;202;642
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;80/90;14117;213;677
+Nilou;5;Sword;Hydro;F;Sumeru;2022-10-14;HP;90/90;15184;229;728
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;01/20;807;23.27;49
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;20/20;2092;60;127
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;20/40;2784;80;169
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;40/40;4165;120;253
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;40/50;4656;134;283
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;50/50;5357;154;325
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;50/60;6012;173;365
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;60/60;6721;193;408
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;60/70;7212;208;438
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;70/70;7926;228;482
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;70/80;8418;242;512
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;80/80;9140;263;556
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;80/90;9632;277;585
+Nahida;5;Catalyst;Dendro;F;Sumeru;2022-11-02;Elemental Mastery;90/90;10360;298;630
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;01/20;930;18;54
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;20/20;2389;46;141
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;20/40;3084;60;182
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;40/40;4619;90;272
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;40/50;5113;99;302
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;50/50;5881;114;347
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;50/60;6540;127;386
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;60/60;7308;142;431
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;60/70;7801;152;460
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;70/70;8569;167;506
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;70/80;9062;177;535
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;80/80;9831;192;580
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;80/90;10324;201;609
+Layla;4;Sword;Cryo;F;Sumeru;2022-11-02;HP;90/90;11092;216;655
