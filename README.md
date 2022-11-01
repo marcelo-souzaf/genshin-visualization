@@ -5,3 +5,6 @@ Learning to use Streamlit by making a few visualizations of data from the game G
 Run with
 
 `python -m streamlit run main.py`
+
+
+Or access the link: https://marcelo-souzaf-genshin-visualization-main-krzq6u.streamlitapp.com/
